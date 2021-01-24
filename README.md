@@ -1,30 +1,43 @@
-# Tailwind CSS example
+# React memo example
 
-This example is a basic starting point for using [Tailwind CSS](https://tailwindcss.com) with Next.js.
+An example demonstrating the difference between `React.memo()` and `useMemo()`
 
-## Deploy your own
+## Built With
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+- NextJS
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
 
-## How to use
+## Getting Started
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+**To get started, follow the instructions below**
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+- Clone this repo
+- Install the dependencies by running `yarn install`
+- Run the application by running `yarn run dev`
+- Head to `localhost:3000` to view the example
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+### Prerequisites
 
-## Notes
+- Node^8.0
 
-This example includes the following [PostCSS](https://github.com/postcss/postcss) plugins:
+## Authors
 
-- [tailwindcss](https://tailwindcss.com) - utility-first CSS framework
-- [autoprefixer](https://github.com/postcss/autoprefixer) - plugin to parse CSS and add vendor prefixes to CSS rules using values from [Can I Use](https://caniuse.com).
+👤 **Adebola**
 
-To control the generated stylesheet's filesize, this example uses Tailwind CSS' [`purge` option](https://tailwindcss.com/docs/controlling-file-size/#removing-unused-css) to remove unused CSS.
+- Github: [@githubhandle](https://github.com/onedebos)
+- Twitter: [@twitterhandle](https://twitter.com/debosthefirst)
+- Linkedin: [linkedin](https://www.linkedin.com/in/adebola-niran/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
